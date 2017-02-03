@@ -1,0 +1,9 @@
+my_obj: [
+    name: "string"
+    1033.10
+    table:[
+        sub_value_boolean: true
+        other_value: false
+        float_val: 3.1415
+    ]
+]
